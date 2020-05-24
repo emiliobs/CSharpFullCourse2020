@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfInotifyPropertyChange", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfListBox", "WpfListBox\WpfListBox.csproj", "{A8416EF8-6612-4DC2-A650-7DC810054C55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfComboBoxAndCheckBox", "WpfComboBoxAndCheckBox\WpfComboBoxAndCheckBox.csproj", "{B62D2308-38DB-4DBC-A099-6F9FAD5BBD56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfComboBoxAndCheckBox", "WpfComboBoxAndCheckBox\WpfComboBoxAndCheckBox.csproj", "{B62D2308-38DB-4DBC-A099-6F9FAD5BBD56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfRadioButton", "WpfRadioButton\WpfRadioButton.csproj", "{2283729E-8B90-4A12-9FD3-DEF35923AD52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{B62D2308-38DB-4DBC-A099-6F9FAD5BBD56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B62D2308-38DB-4DBC-A099-6F9FAD5BBD56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B62D2308-38DB-4DBC-A099-6F9FAD5BBD56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2283729E-8B90-4A12-9FD3-DEF35923AD52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2283729E-8B90-4A12-9FD3-DEF35923AD52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2283729E-8B90-4A12-9FD3-DEF35923AD52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2283729E-8B90-4A12-9FD3-DEF35923AD52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

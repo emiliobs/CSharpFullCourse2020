@@ -10,3 +10,4 @@ C:\Projects\CursocSharpJuanGomez\AppRegex\obj\Debug\netcoreapp3.1\AppRegex.dll
 C:\Projects\CursocSharpJuanGomez\AppRegex\obj\Debug\netcoreapp3.1\AppRegex.pdb
 C:\Projects\CursocSharpJuanGomez\AppRegex\obj\Debug\netcoreapp3.1\AppRegex.csproj.CoreCompileInputs.cache
 C:\Projects\CursocSharpJuanGomez\AppRegex\obj\Debug\netcoreapp3.1\AppRegex.genruntimeconfig.cache
+C:\Projects\CursocSharpJuanGomez\AppRegex\obj\Debug\netcoreapp3.1\AppRegex.csprojAssemblyReference.cache

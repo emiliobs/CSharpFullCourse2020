@@ -10,3 +10,4 @@ C:\Projects\CursocSharpJuanGomez\GenericosRestricciones\obj\Debug\netcoreapp3.0\
 C:\Projects\CursocSharpJuanGomez\GenericosRestricciones\obj\Debug\netcoreapp3.0\GenericosRestricciones.pdb
 C:\Projects\CursocSharpJuanGomez\GenericosRestricciones\obj\Debug\netcoreapp3.0\GenericosRestricciones.csproj.CoreCompileInputs.cache
 C:\Projects\CursocSharpJuanGomez\GenericosRestricciones\obj\Debug\netcoreapp3.0\GenericosRestricciones.genruntimeconfig.cache
+C:\Projects\CursocSharpJuanGomez\GenericosRestricciones\obj\Debug\netcoreapp3.0\GenericosRestricciones.csprojAssemblyReference.cache

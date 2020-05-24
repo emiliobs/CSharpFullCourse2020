@@ -10,3 +10,4 @@ C:\Projects\CursocSharpJuanGomez\AppHerencia\obj\Debug\netcoreapp3.0\AppHerencia
 C:\Projects\CursocSharpJuanGomez\AppHerencia\obj\Debug\netcoreapp3.0\AppHerencia.dll
 C:\Projects\CursocSharpJuanGomez\AppHerencia\obj\Debug\netcoreapp3.0\AppHerencia.pdb
 C:\Projects\CursocSharpJuanGomez\AppHerencia\obj\Debug\netcoreapp3.0\AppHerencia.genruntimeconfig.cache
+C:\Projects\CursocSharpJuanGomez\AppHerencia\obj\Debug\netcoreapp3.0\AppHerencia.csprojAssemblyReference.cache

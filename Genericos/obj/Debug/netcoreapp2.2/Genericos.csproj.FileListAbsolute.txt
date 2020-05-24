@@ -9,3 +9,4 @@ C:\Projects\CursocSharpJuanGomez\Genericos\obj\Debug\netcoreapp2.2\Genericos.Ass
 C:\Projects\CursocSharpJuanGomez\Genericos\obj\Debug\netcoreapp2.2\Genericos.dll
 C:\Projects\CursocSharpJuanGomez\Genericos\obj\Debug\netcoreapp2.2\Genericos.pdb
 C:\Projects\CursocSharpJuanGomez\Genericos\obj\Debug\netcoreapp2.2\Genericos.genruntimeconfig.cache
+C:\Projects\CursocSharpJuanGomez\Genericos\obj\Debug\netcoreapp2.2\Genericos.csprojAssemblyReference.cache

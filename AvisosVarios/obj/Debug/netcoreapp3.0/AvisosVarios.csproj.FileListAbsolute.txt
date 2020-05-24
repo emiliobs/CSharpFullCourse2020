@@ -10,3 +10,4 @@ C:\Projects\CursocSharpJuanGomez\AvisosVarios\obj\Debug\netcoreapp3.0\AvisosVari
 C:\Projects\CursocSharpJuanGomez\AvisosVarios\obj\Debug\netcoreapp3.0\AvisosVarios.dll
 C:\Projects\CursocSharpJuanGomez\AvisosVarios\obj\Debug\netcoreapp3.0\AvisosVarios.pdb
 C:\Projects\CursocSharpJuanGomez\AvisosVarios\obj\Debug\netcoreapp3.0\AvisosVarios.genruntimeconfig.cache
+C:\Projects\CursocSharpJuanGomez\AvisosVarios\obj\Debug\netcoreapp3.0\AvisosVarios.csprojAssemblyReference.cache
