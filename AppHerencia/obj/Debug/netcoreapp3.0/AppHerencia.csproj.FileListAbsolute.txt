@@ -1,0 +1,12 @@
+C:\Projects\CursocSharpJuanGomez\AppHerencia\bin\Debug\netcoreapp3.0\AppHerencia.exe
+C:\Projects\CursocSharpJuanGomez\AppHerencia\bin\Debug\netcoreapp3.0\AppHerencia.deps.json
+C:\Projects\CursocSharpJuanGomez\AppHerencia\bin\Debug\netcoreapp3.0\AppHerencia.runtimeconfig.json
+C:\Projects\CursocSharpJuanGomez\AppHerencia\bin\Debug\netcoreapp3.0\AppHerencia.runtimeconfig.dev.json
+C:\Projects\CursocSharpJuanGomez\AppHerencia\bin\Debug\netcoreapp3.0\AppHerencia.dll
+C:\Projects\CursocSharpJuanGomez\AppHerencia\bin\Debug\netcoreapp3.0\AppHerencia.pdb
+C:\Projects\CursocSharpJuanGomez\AppHerencia\obj\Debug\netcoreapp3.0\AppHerencia.csproj.CoreCompileInputs.cache
+C:\Projects\CursocSharpJuanGomez\AppHerencia\obj\Debug\netcoreapp3.0\AppHerencia.AssemblyInfoInputs.cache
+C:\Projects\CursocSharpJuanGomez\AppHerencia\obj\Debug\netcoreapp3.0\AppHerencia.AssemblyInfo.cs
+C:\Projects\CursocSharpJuanGomez\AppHerencia\obj\Debug\netcoreapp3.0\AppHerencia.dll
+C:\Projects\CursocSharpJuanGomez\AppHerencia\obj\Debug\netcoreapp3.0\AppHerencia.pdb
+C:\Projects\CursocSharpJuanGomez\AppHerencia\obj\Debug\netcoreapp3.0\AppHerencia.genruntimeconfig.cache

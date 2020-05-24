@@ -1,0 +1,13 @@
+C:\Projects\CursocSharpJuanGomez\DelagadosPredicadosLambdas\bin\Debug\netcoreapp3.1\DelagadosPredicadosLambdas.exe
+C:\Projects\CursocSharpJuanGomez\DelagadosPredicadosLambdas\bin\Debug\netcoreapp3.1\DelagadosPredicadosLambdas.deps.json
+C:\Projects\CursocSharpJuanGomez\DelagadosPredicadosLambdas\bin\Debug\netcoreapp3.1\DelagadosPredicadosLambdas.runtimeconfig.json
+C:\Projects\CursocSharpJuanGomez\DelagadosPredicadosLambdas\bin\Debug\netcoreapp3.1\DelagadosPredicadosLambdas.runtimeconfig.dev.json
+C:\Projects\CursocSharpJuanGomez\DelagadosPredicadosLambdas\bin\Debug\netcoreapp3.1\DelagadosPredicadosLambdas.dll
+C:\Projects\CursocSharpJuanGomez\DelagadosPredicadosLambdas\bin\Debug\netcoreapp3.1\DelagadosPredicadosLambdas.pdb
+C:\Projects\CursocSharpJuanGomez\DelagadosPredicadosLambdas\obj\Debug\netcoreapp3.1\DelagadosPredicadosLambdas.csprojAssemblyReference.cache
+C:\Projects\CursocSharpJuanGomez\DelagadosPredicadosLambdas\obj\Debug\netcoreapp3.1\DelagadosPredicadosLambdas.AssemblyInfoInputs.cache
+C:\Projects\CursocSharpJuanGomez\DelagadosPredicadosLambdas\obj\Debug\netcoreapp3.1\DelagadosPredicadosLambdas.AssemblyInfo.cs
+C:\Projects\CursocSharpJuanGomez\DelagadosPredicadosLambdas\obj\Debug\netcoreapp3.1\DelagadosPredicadosLambdas.dll
+C:\Projects\CursocSharpJuanGomez\DelagadosPredicadosLambdas\obj\Debug\netcoreapp3.1\DelagadosPredicadosLambdas.pdb
+C:\Projects\CursocSharpJuanGomez\DelagadosPredicadosLambdas\obj\Debug\netcoreapp3.1\DelagadosPredicadosLambdas.csproj.CoreCompileInputs.cache
+C:\Projects\CursocSharpJuanGomez\DelagadosPredicadosLambdas\obj\Debug\netcoreapp3.1\DelagadosPredicadosLambdas.genruntimeconfig.cache

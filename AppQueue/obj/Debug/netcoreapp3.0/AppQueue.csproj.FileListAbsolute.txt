@@ -1,0 +1,13 @@
+C:\Projects\CursocSharpJuanGomez\AppQueue\bin\Debug\netcoreapp3.0\AppQueue.exe
+C:\Projects\CursocSharpJuanGomez\AppQueue\bin\Debug\netcoreapp3.0\AppQueue.deps.json
+C:\Projects\CursocSharpJuanGomez\AppQueue\bin\Debug\netcoreapp3.0\AppQueue.runtimeconfig.json
+C:\Projects\CursocSharpJuanGomez\AppQueue\bin\Debug\netcoreapp3.0\AppQueue.runtimeconfig.dev.json
+C:\Projects\CursocSharpJuanGomez\AppQueue\bin\Debug\netcoreapp3.0\AppQueue.dll
+C:\Projects\CursocSharpJuanGomez\AppQueue\bin\Debug\netcoreapp3.0\AppQueue.pdb
+C:\Projects\CursocSharpJuanGomez\AppQueue\obj\Debug\netcoreapp3.0\AppQueue.AssemblyInfoInputs.cache
+C:\Projects\CursocSharpJuanGomez\AppQueue\obj\Debug\netcoreapp3.0\AppQueue.AssemblyInfo.cs
+C:\Projects\CursocSharpJuanGomez\AppQueue\obj\Debug\netcoreapp3.0\AppQueue.dll
+C:\Projects\CursocSharpJuanGomez\AppQueue\obj\Debug\netcoreapp3.0\AppQueue.pdb
+C:\Projects\CursocSharpJuanGomez\AppQueue\obj\Debug\netcoreapp3.0\AppQueue.csprojAssemblyReference.cache
+C:\Projects\CursocSharpJuanGomez\AppQueue\obj\Debug\netcoreapp3.0\AppQueue.csproj.CoreCompileInputs.cache
+C:\Projects\CursocSharpJuanGomez\AppQueue\obj\Debug\netcoreapp3.0\AppQueue.genruntimeconfig.cache

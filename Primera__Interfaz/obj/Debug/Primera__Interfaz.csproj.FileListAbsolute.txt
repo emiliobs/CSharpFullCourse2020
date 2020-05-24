@@ -1,0 +1,15 @@
+C:\Projects\CursocSharpJuanGomez\Primera__Interfaz\bin\Debug\Primera__Interfaz.exe.config
+C:\Projects\CursocSharpJuanGomez\Primera__Interfaz\bin\Debug\Primera__Interfaz.exe
+C:\Projects\CursocSharpJuanGomez\Primera__Interfaz\bin\Debug\Primera__Interfaz.pdb
+C:\Projects\CursocSharpJuanGomez\Primera__Interfaz\obj\Debug\Primera__Interfaz.csprojAssemblyReference.cache
+C:\Projects\CursocSharpJuanGomez\Primera__Interfaz\obj\Debug\MainWindow.g.cs
+C:\Projects\CursocSharpJuanGomez\Primera__Interfaz\obj\Debug\App.g.cs
+C:\Projects\CursocSharpJuanGomez\Primera__Interfaz\obj\Debug\Primera__Interfaz_MarkupCompile.cache
+C:\Projects\CursocSharpJuanGomez\Primera__Interfaz\obj\Debug\Primera__Interfaz_MarkupCompile.lref
+C:\Projects\CursocSharpJuanGomez\Primera__Interfaz\obj\Debug\MainWindow.baml
+C:\Projects\CursocSharpJuanGomez\Primera__Interfaz\obj\Debug\Primera__Interfaz.g.resources
+C:\Projects\CursocSharpJuanGomez\Primera__Interfaz\obj\Debug\Primera__Interfaz.Properties.Resources.resources
+C:\Projects\CursocSharpJuanGomez\Primera__Interfaz\obj\Debug\Primera__Interfaz.csproj.GenerateResource.cache
+C:\Projects\CursocSharpJuanGomez\Primera__Interfaz\obj\Debug\Primera__Interfaz.exe
+C:\Projects\CursocSharpJuanGomez\Primera__Interfaz\obj\Debug\Primera__Interfaz.pdb
+C:\Projects\CursocSharpJuanGomez\Primera__Interfaz\obj\Debug\Primera__Interfaz.csproj.CoreCompileInputs.cache

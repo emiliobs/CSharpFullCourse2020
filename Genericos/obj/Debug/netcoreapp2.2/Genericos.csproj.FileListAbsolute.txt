@@ -1,0 +1,11 @@
+C:\Projects\CursocSharpJuanGomez\Genericos\bin\Debug\netcoreapp2.2\Genericos.deps.json
+C:\Projects\CursocSharpJuanGomez\Genericos\bin\Debug\netcoreapp2.2\Genericos.runtimeconfig.json
+C:\Projects\CursocSharpJuanGomez\Genericos\bin\Debug\netcoreapp2.2\Genericos.runtimeconfig.dev.json
+C:\Projects\CursocSharpJuanGomez\Genericos\bin\Debug\netcoreapp2.2\Genericos.dll
+C:\Projects\CursocSharpJuanGomez\Genericos\bin\Debug\netcoreapp2.2\Genericos.pdb
+C:\Projects\CursocSharpJuanGomez\Genericos\obj\Debug\netcoreapp2.2\Genericos.csproj.CoreCompileInputs.cache
+C:\Projects\CursocSharpJuanGomez\Genericos\obj\Debug\netcoreapp2.2\Genericos.AssemblyInfoInputs.cache
+C:\Projects\CursocSharpJuanGomez\Genericos\obj\Debug\netcoreapp2.2\Genericos.AssemblyInfo.cs
+C:\Projects\CursocSharpJuanGomez\Genericos\obj\Debug\netcoreapp2.2\Genericos.dll
+C:\Projects\CursocSharpJuanGomez\Genericos\obj\Debug\netcoreapp2.2\Genericos.pdb
+C:\Projects\CursocSharpJuanGomez\Genericos\obj\Debug\netcoreapp2.2\Genericos.genruntimeconfig.cache

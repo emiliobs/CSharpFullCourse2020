@@ -1,0 +1,12 @@
+C:\Projects\CursocSharpJuanGomez\GenericosRestricciones\obj\Debug\netcoreapp3.0\GenericosRestricciones.AssemblyInfoInputs.cache
+C:\Projects\CursocSharpJuanGomez\GenericosRestricciones\obj\Debug\netcoreapp3.0\GenericosRestricciones.AssemblyInfo.cs
+C:\Projects\CursocSharpJuanGomez\GenericosRestricciones\bin\Debug\netcoreapp3.0\GenericosRestricciones.exe
+C:\Projects\CursocSharpJuanGomez\GenericosRestricciones\bin\Debug\netcoreapp3.0\GenericosRestricciones.deps.json
+C:\Projects\CursocSharpJuanGomez\GenericosRestricciones\bin\Debug\netcoreapp3.0\GenericosRestricciones.runtimeconfig.json
+C:\Projects\CursocSharpJuanGomez\GenericosRestricciones\bin\Debug\netcoreapp3.0\GenericosRestricciones.runtimeconfig.dev.json
+C:\Projects\CursocSharpJuanGomez\GenericosRestricciones\bin\Debug\netcoreapp3.0\GenericosRestricciones.dll
+C:\Projects\CursocSharpJuanGomez\GenericosRestricciones\bin\Debug\netcoreapp3.0\GenericosRestricciones.pdb
+C:\Projects\CursocSharpJuanGomez\GenericosRestricciones\obj\Debug\netcoreapp3.0\GenericosRestricciones.dll
+C:\Projects\CursocSharpJuanGomez\GenericosRestricciones\obj\Debug\netcoreapp3.0\GenericosRestricciones.pdb
+C:\Projects\CursocSharpJuanGomez\GenericosRestricciones\obj\Debug\netcoreapp3.0\GenericosRestricciones.csproj.CoreCompileInputs.cache
+C:\Projects\CursocSharpJuanGomez\GenericosRestricciones\obj\Debug\netcoreapp3.0\GenericosRestricciones.genruntimeconfig.cache

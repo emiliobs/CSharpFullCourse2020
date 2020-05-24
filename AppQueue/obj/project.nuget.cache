@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WaVA0jr2PY1AV37IEnJhSiVBl4/m/w/5mm3iTzS1qD0Pi/28h+zBj8G82ryazouf6P1xiV7Bweap3HtwFq8EUw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\CursocSharpJuanGomez\\AppQueue\\AppQueue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emilio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Emilio\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Emilio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Emilio\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

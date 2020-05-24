@@ -1,0 +1,12 @@
+C:\Projects\CursocSharpJuanGomez\AppRegex\bin\Debug\netcoreapp3.1\AppRegex.exe
+C:\Projects\CursocSharpJuanGomez\AppRegex\bin\Debug\netcoreapp3.1\AppRegex.deps.json
+C:\Projects\CursocSharpJuanGomez\AppRegex\bin\Debug\netcoreapp3.1\AppRegex.runtimeconfig.json
+C:\Projects\CursocSharpJuanGomez\AppRegex\bin\Debug\netcoreapp3.1\AppRegex.runtimeconfig.dev.json
+C:\Projects\CursocSharpJuanGomez\AppRegex\bin\Debug\netcoreapp3.1\AppRegex.dll
+C:\Projects\CursocSharpJuanGomez\AppRegex\bin\Debug\netcoreapp3.1\AppRegex.pdb
+C:\Projects\CursocSharpJuanGomez\AppRegex\obj\Debug\netcoreapp3.1\AppRegex.AssemblyInfoInputs.cache
+C:\Projects\CursocSharpJuanGomez\AppRegex\obj\Debug\netcoreapp3.1\AppRegex.AssemblyInfo.cs
+C:\Projects\CursocSharpJuanGomez\AppRegex\obj\Debug\netcoreapp3.1\AppRegex.dll
+C:\Projects\CursocSharpJuanGomez\AppRegex\obj\Debug\netcoreapp3.1\AppRegex.pdb
+C:\Projects\CursocSharpJuanGomez\AppRegex\obj\Debug\netcoreapp3.1\AppRegex.csproj.CoreCompileInputs.cache
+C:\Projects\CursocSharpJuanGomez\AppRegex\obj\Debug\netcoreapp3.1\AppRegex.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Projects\CursocSharpJuanGomez\Destructores\bin\Debug\netcoreapp2.2\Destructores.deps.json
+C:\Projects\CursocSharpJuanGomez\Destructores\bin\Debug\netcoreapp2.2\Destructores.runtimeconfig.json
+C:\Projects\CursocSharpJuanGomez\Destructores\bin\Debug\netcoreapp2.2\Destructores.runtimeconfig.dev.json
+C:\Projects\CursocSharpJuanGomez\Destructores\bin\Debug\netcoreapp2.2\Destructores.dll
+C:\Projects\CursocSharpJuanGomez\Destructores\bin\Debug\netcoreapp2.2\Destructores.pdb
+C:\Projects\CursocSharpJuanGomez\Destructores\obj\Debug\netcoreapp2.2\Destructores.csprojAssemblyReference.cache
+C:\Projects\CursocSharpJuanGomez\Destructores\obj\Debug\netcoreapp2.2\Destructores.csproj.CoreCompileInputs.cache
+C:\Projects\CursocSharpJuanGomez\Destructores\obj\Debug\netcoreapp2.2\Destructores.AssemblyInfoInputs.cache
+C:\Projects\CursocSharpJuanGomez\Destructores\obj\Debug\netcoreapp2.2\Destructores.AssemblyInfo.cs
+C:\Projects\CursocSharpJuanGomez\Destructores\obj\Debug\netcoreapp2.2\Destructores.dll
+C:\Projects\CursocSharpJuanGomez\Destructores\obj\Debug\netcoreapp2.2\Destructores.pdb
+C:\Projects\CursocSharpJuanGomez\Destructores\obj\Debug\netcoreapp2.2\Destructores.genruntimeconfig.cache
