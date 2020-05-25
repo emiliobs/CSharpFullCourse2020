@@ -33,7 +33,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfComboBoxAndCheckBox", "W
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfRadioButton", "WpfRadioButton\WpfRadioButton.csproj", "{2283729E-8B90-4A12-9FD3-DEF35923AD52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfBBDDSqlserver", "WpfBBDDSqlserver\WpfBBDDSqlserver.csproj", "{2705488F-279A-4BE1-AC12-70C28FFEF2B3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfGestionPedidosSqlServer", "WpfGestionPedidosSqlServer\WpfGestionPedidosSqlServer.csproj", "{B29B6B92-87C4-4DFD-BEB7-FA001F17CC4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -101,10 +101,10 @@ Global
 		{2283729E-8B90-4A12-9FD3-DEF35923AD52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2283729E-8B90-4A12-9FD3-DEF35923AD52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2283729E-8B90-4A12-9FD3-DEF35923AD52}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2705488F-279A-4BE1-AC12-70C28FFEF2B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2705488F-279A-4BE1-AC12-70C28FFEF2B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2705488F-279A-4BE1-AC12-70C28FFEF2B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2705488F-279A-4BE1-AC12-70C28FFEF2B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B29B6B92-87C4-4DFD-BEB7-FA001F17CC4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B29B6B92-87C4-4DFD-BEB7-FA001F17CC4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B29B6B92-87C4-4DFD-BEB7-FA001F17CC4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B29B6B92-87C4-4DFD-BEB7-FA001F17CC4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
