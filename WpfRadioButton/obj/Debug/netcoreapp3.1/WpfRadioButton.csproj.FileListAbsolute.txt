@@ -16,3 +16,4 @@ C:\Projects\CursocSharpJuanGomez\WpfRadioButton\obj\Debug\netcoreapp3.1\WpfRadio
 C:\Projects\CursocSharpJuanGomez\WpfRadioButton\obj\Debug\netcoreapp3.1\WpfRadioButton.dll
 C:\Projects\CursocSharpJuanGomez\WpfRadioButton\obj\Debug\netcoreapp3.1\WpfRadioButton.pdb
 C:\Projects\CursocSharpJuanGomez\WpfRadioButton\obj\Debug\netcoreapp3.1\WpfRadioButton.genruntimeconfig.cache
+C:\Projects\CursocSharpJuanGomez\WpfRadioButton\obj\Debug\netcoreapp3.1\WpfRadioButton.csprojAssemblyReference.cache

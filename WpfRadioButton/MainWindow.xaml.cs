@@ -24,5 +24,32 @@ namespace WpfRadioButton
         {
             InitializeComponent();
         }
+
+        
+
+        private void radioButtonRojo_Click(object sender, RoutedEventArgs e)
+        {
+            rojoEllipse.Visibility = Visibility;
+            amarilloEliipse.Visibility = Visibility.Hidden;
+            verdeEllipse.Visibility = Visibility.Hidden;
+
+
+        }
+
+        private void radioButtonMarillo_Click(object sender, RoutedEventArgs e)
+        {
+            amarilloEliipse.Visibility = Visibility;
+            rojoEllipse.Visibility = Visibility.Hidden;
+            verdeEllipse.Visibility = Visibility.Hidden;
+
+        }
+
+        private void radioButtonVerde_Click(object sender, RoutedEventArgs e)
+        {
+            verdeEllipse.Visibility = Visibility;
+            amarilloEliipse.Visibility = Visibility.Hidden;
+            rojoEllipse.Visibility = Visibility.Hidden;
+
+        }
     }
 }

@@ -23,25 +23,32 @@
                 </Grid.ColumnDefinitions>
 
                 <StackPanel Grid.Column="0">
-                    <RadioButton Margin="50,20,100,80">
-                        <TextBlock Text="Rojo" Foreground="Red" FontSize="15"></TextBlock>
+                    <RadioButton Margin="50,20,100,80" Name="radioButtonRojo" Click="radioButtonRojo_Click">
+                        <TextBlock Text="Rojo"  Foreground="Red" FontSize="15"></TextBlock>
                     </RadioButton>
-                    <RadioButton Margin="50,20,100,80">
+                    <RadioButton Margin="50,20,100,80" Name="radioButtonMarillo" Click="radioButtonMarillo_Click">
                         <TextBlock Text="BlueViolet" Foreground="BlueViolet" FontSize="15"></TextBlock>
                     </RadioButton>
-                    <RadioButton Margin="50,20,100,80">
+                    <RadioButton Margin="50,20,100,80" Name="radioButtonVerde" Click="radioButtonVerde_Click" >
                         <TextBlock Text="Verde" Foreground="Green" FontSize="15"></TextBlock>
                     </RadioButton>
                 </StackPanel>
                 <StackPanel Grid.Column="1">
-                    <Image Source="/semaforo.jpg" Margin="0,50,0,0"  Stretch="Fill"/>
+                    
+                    <Canvas>
+                        <Image Source="/semaforo.jpg" Margin="0,50,0,0"  Stretch="Fill"/>
+                        <Ellipse Width="30" Visibility="Hidden" Name="rojoEllipse" Fill="Red" Height="30"  Canvas.Left="181" Canvas.Top="89"/>
+                        <Ellipse Width="30"  Visibility="Hidden"  Name="amarilloEliipse" Fill="Yellow" Height="30"  Canvas.Left="183" Canvas.Top="130"/>
+                        <Ellipse Width="30"  Visibility="Hidden" Name="verdeEllipse" Fill="Green" Height="30"  Canvas.Left="182" Canvas.Top="174"/>
+
+                    </Canvas>
                 </StackPanel>
 
             </Grid>
 
-           
-            
+
+
         </StackPanel>
-        
+
     </Grid>
 </Window>
