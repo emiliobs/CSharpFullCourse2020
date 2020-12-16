@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\CursocSharpJuanGomez\\DelagadosPredicadosLambdas\\DelagadosPredicadosLambdas.csproj",
+      "projectUniqueName": "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\DelagadosPredicadosLambdas\\DelagadosPredicadosLambdas.csproj",
       "projectName": "DelagadosPredicadosLambdas",
-      "projectPath": "C:\\Projects\\CursocSharpJuanGomez\\DelagadosPredicadosLambdas\\DelagadosPredicadosLambdas.csproj",
+      "projectPath": "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\DelagadosPredicadosLambdas\\DelagadosPredicadosLambdas.csproj",
       "packagesPath": "C:\\Users\\Emilio\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\CursocSharpJuanGomez\\DelagadosPredicadosLambdas\\obj\\",
+      "outputPath": "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\DelagadosPredicadosLambdas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -39,6 +39,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -50,6 +51,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -65,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300-preview-015135\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

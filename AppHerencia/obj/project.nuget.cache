@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/Lbd1bsJT5KV+XgmOHjHsqmxzcakZltNJrn7TUqSsaD3l4gqHws4Rn2xf4oKNvSxYGB9MxDI/4ydMOAwG17rcw==",
+  "dgSpecHash": "4MJvinQWvYoilTtO0n/dLbdXOCIqKrVLEoQktGHc7NRu5m8hsQDfavpvu84ItL8UuvQlbe2iGBeVkt0Rb6bJuQ==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\CursocSharpJuanGomez\\AppHerencia\\AppHerencia.csproj",
+  "projectFilePath": "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\AppHerencia\\AppHerencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emilio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
     "C:\\Users\\Emilio\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",

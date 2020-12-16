@@ -11,3 +11,16 @@ C:\Projects\CursocSharpJuanGomez\AppHerencia\obj\Debug\netcoreapp3.0\AppHerencia
 C:\Projects\CursocSharpJuanGomez\AppHerencia\obj\Debug\netcoreapp3.0\AppHerencia.pdb
 C:\Projects\CursocSharpJuanGomez\AppHerencia\obj\Debug\netcoreapp3.0\AppHerencia.genruntimeconfig.cache
 C:\Projects\CursocSharpJuanGomez\AppHerencia\obj\Debug\netcoreapp3.0\AppHerencia.csprojAssemblyReference.cache
+C:\Users\Emilio\Source\Repos\CSharpFullCourse2020\AppHerencia\bin\Debug\netcoreapp3.0\AppHerencia.exe
+C:\Users\Emilio\Source\Repos\CSharpFullCourse2020\AppHerencia\bin\Debug\netcoreapp3.0\AppHerencia.deps.json
+C:\Users\Emilio\Source\Repos\CSharpFullCourse2020\AppHerencia\bin\Debug\netcoreapp3.0\AppHerencia.runtimeconfig.json
+C:\Users\Emilio\Source\Repos\CSharpFullCourse2020\AppHerencia\bin\Debug\netcoreapp3.0\AppHerencia.runtimeconfig.dev.json
+C:\Users\Emilio\Source\Repos\CSharpFullCourse2020\AppHerencia\bin\Debug\netcoreapp3.0\AppHerencia.dll
+C:\Users\Emilio\Source\Repos\CSharpFullCourse2020\AppHerencia\bin\Debug\netcoreapp3.0\AppHerencia.pdb
+C:\Users\Emilio\Source\Repos\CSharpFullCourse2020\AppHerencia\obj\Debug\netcoreapp3.0\AppHerencia.csprojAssemblyReference.cache
+C:\Users\Emilio\Source\Repos\CSharpFullCourse2020\AppHerencia\obj\Debug\netcoreapp3.0\AppHerencia.AssemblyInfoInputs.cache
+C:\Users\Emilio\Source\Repos\CSharpFullCourse2020\AppHerencia\obj\Debug\netcoreapp3.0\AppHerencia.AssemblyInfo.cs
+C:\Users\Emilio\Source\Repos\CSharpFullCourse2020\AppHerencia\obj\Debug\netcoreapp3.0\AppHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Emilio\Source\Repos\CSharpFullCourse2020\AppHerencia\obj\Debug\netcoreapp3.0\AppHerencia.dll
+C:\Users\Emilio\Source\Repos\CSharpFullCourse2020\AppHerencia\obj\Debug\netcoreapp3.0\AppHerencia.pdb
+C:\Users\Emilio\Source\Repos\CSharpFullCourse2020\AppHerencia\obj\Debug\netcoreapp3.0\AppHerencia.genruntimeconfig.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iS7t8cQRhxk/ELYgAvyAj3BSgHj3moFUFA9cCYZwHB+gMtsnMD32YnInHb6TrEg8zW32TBbYMdWLbvkqlcOppg==",
+  "dgSpecHash": "yazy8egrUBinQW3KcLeveSdBm/fcD9uya461F0l/7dMtopMKF7/lle5lU6qxm5lcYgEvHDjwETi+HN5HzC8SvA==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\CursocSharpJuanGomez\\AvisosVarios\\AvisosVarios.csproj",
+  "projectFilePath": "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\AvisosVarios\\AvisosVarios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emilio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
     "C:\\Users\\Emilio\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",

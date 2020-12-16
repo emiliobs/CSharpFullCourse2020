@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fFdYjzfYsReLfTCHN8z7KjI3gWY6t5o3yNr+yNFhp4iPUvrc8+OJdzP+BYy1ln4wjNY/woQNv0tR8wGr9UNzBQ==",
+  "dgSpecHash": "EKZolciAEyAs2UP0UqMTHeX5o958ImPw/yPEmVGt31dr/EU2u14tUWCMNu+aHYBzTw499nAmC87yO1vuNe5zNw==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\CursocSharpJuanGomez\\Destructores\\Destructores.csproj",
+  "projectFilePath": "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\Destructores\\Destructores.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\CursocSharpJuanGomez\\Genericos\\Genericos.csproj": {}
+    "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\Genericos\\Genericos.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\CursocSharpJuanGomez\\Genericos\\Genericos.csproj": {
+    "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\Genericos\\Genericos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\CursocSharpJuanGomez\\Genericos\\Genericos.csproj",
+        "projectUniqueName": "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\Genericos\\Genericos.csproj",
         "projectName": "Genericos",
-        "projectPath": "C:\\Projects\\CursocSharpJuanGomez\\Genericos\\Genericos.csproj",
+        "projectPath": "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\Genericos\\Genericos.csproj",
         "packagesPath": "C:\\Users\\Emilio\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\CursocSharpJuanGomez\\Genericos\\obj\\",
+        "outputPath": "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\Genericos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -31,6 +31,7 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {}
           }
         },
@@ -42,6 +43,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -60,7 +62,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300-preview-015135\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

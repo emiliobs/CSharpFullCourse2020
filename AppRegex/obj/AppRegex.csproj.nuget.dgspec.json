@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\CursocSharpJuanGomez\\AppRegex\\AppRegex.csproj": {}
+    "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\AppRegex\\AppRegex.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\CursocSharpJuanGomez\\AppRegex\\AppRegex.csproj": {
+    "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\AppRegex\\AppRegex.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\CursocSharpJuanGomez\\AppRegex\\AppRegex.csproj",
+        "projectUniqueName": "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\AppRegex\\AppRegex.csproj",
         "projectName": "AppRegex",
-        "projectPath": "C:\\Projects\\CursocSharpJuanGomez\\AppRegex\\AppRegex.csproj",
+        "projectPath": "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\AppRegex\\AppRegex.csproj",
         "packagesPath": "C:\\Users\\Emilio\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\CursocSharpJuanGomez\\AppRegex\\obj\\",
+        "outputPath": "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\AppRegex\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -31,6 +31,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -42,6 +43,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -57,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300-preview-015135\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

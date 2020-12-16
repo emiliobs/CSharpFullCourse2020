@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Projects\CursocSharpJuanGomez\WpfBBDDSqlserver\obj\Debug\netcoreapp3.1\
+C:\Users\Emilio\Source\Repos\CSharpFullCourse2020\WpfBBDDSqlserver\obj\Debug\netcoreapp3.1\
 WpfBBDDSqlserver
 none
 false
-TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-C:\Projects\CursocSharpJuanGomez\WpfBBDDSqlserver\App.xaml
+TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
+C:\Users\Emilio\Source\Repos\CSharpFullCourse2020\WpfBBDDSqlserver\App.xaml
 11151548125
 
-3-917710711
+41538621460
 1921654412462
 MainWindow.xaml;
 
-False
+True
 

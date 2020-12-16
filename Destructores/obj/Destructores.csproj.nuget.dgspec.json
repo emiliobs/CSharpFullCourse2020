@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\CursocSharpJuanGomez\\Destructores\\Destructores.csproj": {}
+    "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\Destructores\\Destructores.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\CursocSharpJuanGomez\\Destructores\\Destructores.csproj": {
+    "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\Destructores\\Destructores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\CursocSharpJuanGomez\\Destructores\\Destructores.csproj",
+        "projectUniqueName": "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\Destructores\\Destructores.csproj",
         "projectName": "Destructores",
-        "projectPath": "C:\\Projects\\CursocSharpJuanGomez\\Destructores\\Destructores.csproj",
+        "projectPath": "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\Destructores\\Destructores.csproj",
         "packagesPath": "C:\\Users\\Emilio\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\CursocSharpJuanGomez\\Destructores\\obj\\",
+        "outputPath": "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\Destructores\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -31,6 +31,7 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {}
           }
         },
@@ -42,6 +43,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -60,7 +62,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300-preview-015135\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

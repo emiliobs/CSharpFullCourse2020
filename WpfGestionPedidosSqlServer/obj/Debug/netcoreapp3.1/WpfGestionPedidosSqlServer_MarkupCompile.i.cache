@@ -4,12 +4,12 @@
 winexe
 C#
 .cs
-C:\Projects\CursocSharpJuanGomez\WpfGestionPedidosSqlServer\obj\Debug\netcoreapp3.1\
+C:\Users\Emilio\Source\Repos\CSharpFullCourse2020\WpfGestionPedidosSqlServer\obj\Debug\netcoreapp3.1\
 WpfGestionPedidosSqlServer
 none
 false
-TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-C:\Projects\CursocSharpJuanGomez\WpfGestionPedidosSqlServer\App.xaml
+TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
+C:\Users\Emilio\Source\Repos\CSharpFullCourse2020\WpfGestionPedidosSqlServer\App.xaml
 11151548125
 
 5715607922

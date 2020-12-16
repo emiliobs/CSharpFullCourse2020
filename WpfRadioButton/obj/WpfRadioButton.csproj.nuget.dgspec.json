@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\CursocSharpJuanGomez\\WpfRadioButton\\WpfRadioButton.csproj": {}
+    "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\WpfRadioButton\\WpfRadioButton.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\CursocSharpJuanGomez\\WpfRadioButton\\WpfRadioButton.csproj": {
+    "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\WpfRadioButton\\WpfRadioButton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\CursocSharpJuanGomez\\WpfRadioButton\\WpfRadioButton.csproj",
+        "projectUniqueName": "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\WpfRadioButton\\WpfRadioButton.csproj",
         "projectName": "WpfRadioButton",
-        "projectPath": "C:\\Projects\\CursocSharpJuanGomez\\WpfRadioButton\\WpfRadioButton.csproj",
+        "projectPath": "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\WpfRadioButton\\WpfRadioButton.csproj",
         "packagesPath": "C:\\Users\\Emilio\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\CursocSharpJuanGomez\\WpfRadioButton\\obj\\",
+        "outputPath": "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\WpfRadioButton\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -31,6 +31,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -42,6 +43,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -60,7 +62,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300-preview-015135\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

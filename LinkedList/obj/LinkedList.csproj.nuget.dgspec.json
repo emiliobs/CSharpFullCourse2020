@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\CursocSharpJuanGomez\\LinkedList\\LinkedList.csproj": {}
+    "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\LinkedList\\LinkedList.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\CursocSharpJuanGomez\\LinkedList\\LinkedList.csproj": {
+    "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\LinkedList\\LinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\CursocSharpJuanGomez\\LinkedList\\LinkedList.csproj",
+        "projectUniqueName": "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\LinkedList\\LinkedList.csproj",
         "projectName": "LinkedList",
-        "projectPath": "C:\\Projects\\CursocSharpJuanGomez\\LinkedList\\LinkedList.csproj",
+        "projectPath": "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\LinkedList\\LinkedList.csproj",
         "packagesPath": "C:\\Users\\Emilio\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\CursocSharpJuanGomez\\LinkedList\\obj\\",
+        "outputPath": "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\LinkedList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -31,6 +31,7 @@
         },
         "frameworks": {
           "netcoreapp3.0": {
+            "targetAlias": "netcoreapp3.0",
             "projectReferences": {}
           }
         },
@@ -42,6 +43,7 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
           "imports": [
             "net461",
             "net462",
@@ -75,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300-preview-015135\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WaVA0jr2PY1AV37IEnJhSiVBl4/m/w/5mm3iTzS1qD0Pi/28h+zBj8G82ryazouf6P1xiV7Bweap3HtwFq8EUw==",
+  "dgSpecHash": "xAqWAH5VVcFRy8xLQdsrdrEM7R80pvHwMNtAxvawi0Y9t8cKvy1yosXyReAGAKr2taU38uQSVHvnLF4RvVQIog==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\CursocSharpJuanGomez\\AppQueue\\AppQueue.csproj",
+  "projectFilePath": "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\AppQueue\\AppQueue.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emilio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
     "C:\\Users\\Emilio\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",

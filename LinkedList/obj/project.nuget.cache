@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LNaQjBl7T+Y4ejnQd8Y4JSTtFJgTzrwHmQom8ZT127FaLxkFKNMARO0Eg0hG/VB4iAYplmm0IByUyXOgWZhQRg==",
+  "dgSpecHash": "qWvK7j4Z66mx1k+Cc1lLYcCj5s9w0XPz8KLtZ7lqwiFDbc16/5tqshE4HAHOwe9GlPaYbvE0269AjqfDAxi19Q==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\CursocSharpJuanGomez\\LinkedList\\LinkedList.csproj",
+  "projectFilePath": "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\LinkedList\\LinkedList.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emilio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
     "C:\\Users\\Emilio\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",

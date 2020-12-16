@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KvmpfK52RL7rlLBUZcOBbllQHHZtDpE0p6RjI4CJkBBfQyLY3f+zxipbDqP6ESifQMyJ4/wWsAVYJUkXp5nRtw==",
+  "dgSpecHash": "rj/VzmaUVE909oAH5gepazOMHL0mII2slGLtY8rwQdFJOO/0kJGWYIcs2lsIRfxpe//oFtSQV/Vk6k/UXv5bvA==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\CursocSharpJuanGomez\\WpfGestionPedidosSqlServer\\WpfGestionPedidosSqlServer.csproj",
+  "projectFilePath": "C:\\Users\\Emilio\\Source\\Repos\\CSharpFullCourse2020\\WpfGestionPedidosSqlServer\\WpfGestionPedidosSqlServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
